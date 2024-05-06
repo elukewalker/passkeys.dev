@@ -47,6 +47,10 @@ Passkeys created in **macOS** can be used on:
 
 - the same Windows device that created them
 
+[Device-bound passkeys](/docs/reference/terms/#device-bound-passkey) created in a [**Security Key**](https://passkeys.dev/docs/reference/terms/#roaming-authenticator) can be used on:
+
+- Any device that supports the security key's transports (USB, NFC, and/or Bluetooth) and a compatible client (platform, application, and/or browser)
+
 ## Matrix
 
 <div id="device-support-table" class="table-responsive">
